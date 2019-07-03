@@ -1,0 +1,14 @@
+v 20130925 2
+L 300 400 300 0 3 0 0 0 -1 -1
+L 100 200 500 200 3 0 0 0 -1 -1
+T 0 700 8 10 0 0 0 0 1
+device=none
+T 0 900 8 10 0 0 0 0 1
+description=Fiducial marker
+T 7 1100 8 10 0 0 0 0 1
+footprint=FIDUCIAL_sr.fp
+T 7 500 8 10 1 1 0 0 1
+refdes=FID?
+T 600 0 9 10 1 0 0 0 2
+Fiducial
+marker
